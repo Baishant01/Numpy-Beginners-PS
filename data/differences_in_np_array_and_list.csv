@@ -1,0 +1,9 @@
+Np_array                          , Python_list                            
+Data Types,Can contain homogenous data only, Can contain data of variety of types
+Memory Efficiency, Higher, Lower
+Speed, Much faster due to optimized C backend, Slower for large numerical operations
+Functionability, Rich numerical  and matrix operations
+Element Access, Faster due to direct memory access, Slower due to indirect referencing
+Broadcasting, Supported, Not supported
+Shape, Supports multi-dimensional arrays, 1D by default and nested for more
+Vectorized Ops, Supports element-wise operation directly, Requires loops
